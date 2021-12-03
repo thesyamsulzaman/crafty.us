@@ -16,7 +16,10 @@ Pages
 - Admin
   - Craft Dashboard
     - Likes Count   
+      - Singular Component Loading
     - Comment Count
+      - Delete and Upadte functionality
     - Interest
+      - Add more complex algorithm
   - User Dashboard
 
