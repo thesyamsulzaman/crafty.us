@@ -11,8 +11,12 @@ Pages
   - Craft On Sale
 - User
   - Login
+    - JWT Authentication ( Senior Changes )
   - Register
+    - Cloudinary ( Senior Changes )
   - Forgot Password
+    - Blacbox External Service ( Senior Changes )
+
 - Admin
   - Craft Dashboard (Redux)
     - Likes Count
