@@ -21,10 +21,12 @@ Pages
   - Craft Dashboard (Redux)
     - Likes Count
       - Singular Component Loading
+      - Implement Memoization ( Senior Changes )
     - Comment Count
       - Delete and Upadte functionality
+      - Implement Memoization ( Senior Changes )
     - Interest
-      - Add more complex algorithm
+      - Graph Algorithm ( Senior Changes )
   - User Dashboard
     - User Rate
       - Summary Algorithm ( Java Implementation )
