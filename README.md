@@ -15,7 +15,7 @@ Pages
   - Forgot Password
 - Admin
   - Craft Dashboard (Redux)
-    - Likes Count   
+    - Likes Count
       - Singular Component Loading
     - Comment Count
       - Delete and Upadte functionality
@@ -26,5 +26,3 @@ Pages
       - Summary Algorithm ( Java Implementation )
     - User Popularity based on Location
       - Djikstra Algorithm ( Golang Impelementation )
-
-
