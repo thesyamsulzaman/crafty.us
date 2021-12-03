@@ -23,8 +23,8 @@ Pages
       - Add more complex algorithm
   - User Dashboard
     - User Rate
-      - Summary Algorithm ( GOLang Implementation )
+      - Summary Algorithm ( Java Implementation )
     - User Popularity based on Location
-      - Djikstra Algorithm ( Python Implementation )
+      - Djikstra Algorithm ( Golang Impelementation )
 
 
