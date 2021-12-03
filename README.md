@@ -13,7 +13,7 @@ Pages
     - Using redux store ( Junior Changes )
   - Craft On Sale
     - Using redux store ( Junior Changes )
-    - Using Shopify ( Junior Changes )
+    - Using Wordpress ( Senior Changes )
 - User
   - Login
     - JWT Authentication ( Senior Changes )
