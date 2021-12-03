@@ -14,7 +14,7 @@ Pages
   - Register
   - Forgot Password
 - Admin
-  - Craft Dashboard
+  - Craft Dashboard (Redux)
     - Likes Count   
       - Singular Component Loading
     - Comment Count
