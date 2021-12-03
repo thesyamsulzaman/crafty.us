@@ -6,9 +6,14 @@ Pages
 
 - Home
   - Craft Detail
+    - Using overlay on long description ( Junior Changes )
   - Craft Comments
+    - Using redux store ( Junior Changes )
   - Craft Likes
+    - Using redux store ( Junior Changes )
   - Craft On Sale
+    - Using redux store ( Junior Changes )
+    - Using Shopify ( Junior Changes )
 - User
   - Login
     - JWT Authentication ( Senior Changes )
