@@ -6,7 +6,7 @@ Pages
 
 - Home
   - Craft Detail
-    - Using overlay on long description ( Junior Changes )
+    - Using sticky overlay on long description ( Senior Changes )
   - Craft Comments
     - Using redux store ( Junior Changes )
   - Craft Likes
