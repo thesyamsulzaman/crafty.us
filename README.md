@@ -17,8 +17,8 @@ Pages
   - Craft Dashboard
   - User Dashboard
     - User Rate
-      - Summary Algorithm
+      - Summary Algorithm ( GOLang Implementation )
     - User Popularity based on Location
-      - Djikstra Algorithm
+      - Djikstra Algorithm ( Python Implementation )
 
 
