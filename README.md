@@ -13,3 +13,7 @@ Pages
   - Login
   - Register
   - Forgot Password
+- Admin
+  - Craft Dashboard
+  - User Dashboard
+
