@@ -17,5 +17,8 @@ Pages
   - Craft Dashboard
   - User Dashboard
     - User Rate
-    - User Popularity
+      - Summary Algorithm
+    - User Popularity based on Location
+      - Djikstra Algorithm
+
 
