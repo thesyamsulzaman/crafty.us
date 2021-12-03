@@ -16,4 +16,6 @@ Pages
 - Admin
   - Craft Dashboard
   - User Dashboard
+    - User Rate
+    - User Popularity
 
