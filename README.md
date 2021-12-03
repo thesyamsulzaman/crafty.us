@@ -15,6 +15,9 @@ Pages
   - Forgot Password
 - Admin
   - Craft Dashboard
+    - Likes Count   
+    - Comment Count
+    - Interest
   - User Dashboard
     - User Rate
       - Summary Algorithm ( GOLang Implementation )
