@@ -15,6 +15,7 @@ Pages
     - Using redux store ( Junior Changes )
     - Using Wordpress ( Senior Changes )
 - User
+
   - Login
     - JWT Authentication ( Senior Changes )
   - Register
