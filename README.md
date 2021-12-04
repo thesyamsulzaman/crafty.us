@@ -21,6 +21,8 @@ Pages
     - Cloudinary ( Senior Changes )
   - Forgot Password
     - Blacbox External Service ( Senior Changes )
+    - Laravel API ( Senior Changes )
+    - Mail Chimp ( Senior Changes )
 
 - Admin
   - Craft Dashboard (Redux)
