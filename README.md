@@ -9,8 +9,10 @@ Pages
     - Using sticky overlay on long description ( Senior Changes )
   - Craft Comments
     - Using redux store ( Junior Changes )
+    - Perform Memoize Selector ( Junior Changes )
   - Craft Likes
     - Using redux store ( Junior Changes )
+    - Perform Memoize Selector ( Junior Changes )
   - Craft On Sale
     - Using redux store ( Junior Changes )
     - Using Wordpress ( Senior Changes )
