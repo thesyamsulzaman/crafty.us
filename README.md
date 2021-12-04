@@ -19,6 +19,7 @@ Pages
     - JWT Authentication ( Senior Changes )
   - Register
     - Cloudinary ( Senior Changes )
+    - Optimize the load time  ( Senior Changes )
   - Forgot Password
     - Blacbox External Service ( Senior Changes )
     - Laravel API ( Senior Changes )
