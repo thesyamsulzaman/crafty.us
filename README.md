@@ -17,6 +17,7 @@ Pages
 - User
   - Login
     - JWT Authentication ( Senior Changes )
+    - Implement two factor authentication ( Senior Changes )
   - Register
     - Cloudinary ( Senior Changes )
     - Optimize the load time  ( Senior Changes )
