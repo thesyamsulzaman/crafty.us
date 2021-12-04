@@ -18,6 +18,7 @@ Pages
   - Craft On Sale
     - Using redux store ( Junior Changes )
     - Perform Algorithm Backdor ( Junior Changes )
+    - Refactor styling ( Junior Changes )
 
 - User
 
