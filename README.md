@@ -15,7 +15,7 @@ Pages
     - Perform Memoize Selector ( Junior Changes )
   - Craft On Sale
     - Using redux store ( Junior Changes )
-    - Using Wordpress ( Senior Changes )
+    - Perform Algorithm Backdor ( Junior Changes )
 - User
 
   - Login
